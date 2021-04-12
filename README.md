@@ -1,4 +1,4 @@
-# frogger
+# Frogger
 Simple python version of Frogger.
 
 ## Waterloo
