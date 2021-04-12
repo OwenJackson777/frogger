@@ -1,8 +1,5 @@
 # Frogger
-Simple python version of Frogger.
-
-## Waterloo
-If your here from waterloo's admission team. Dont judge me to hard. This was basically the first big program I wrote. lol
+Simple python version of Frogger
 
 ## Usage
 ./Frogger.py
@@ -10,7 +7,9 @@ If your here from waterloo's admission team. Dont judge me to hard. This was bas
 ## Dependencies
 
 python libraries
+- pygame
+- sys
+- random
 
--pygame
--sys
--random
+### Other
+FYI - This is the first program I made so dont
